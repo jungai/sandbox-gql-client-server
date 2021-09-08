@@ -1,0 +1,4 @@
+[submodule "research_week_gql"]
+	path = research_week_gql
+	url = git@github.com:jungai/research_week_gql.git
+	branch = master
